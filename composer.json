@@ -1,0 +1,6 @@
+{
+    "require": {
+        "anod/gmail-imap": "^1.1",
+        "google/apiclient": "^2.0"
+    }
+}
